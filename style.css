@@ -10,18 +10,30 @@ h1{
 
 section{
     display: flex;
+    
 }
 .half-width{
     width: 60%;
     padding-left: 3%;
+    
 }
 .half-width-img{
    width: 75%;
+  padding-right: 5%;
 }
 .Link-button{
     text-decoration: none;
     background-image: linear-gradient(salmon,orange);
    padding: 10px 40px;
    border-radius: 20px;
+} 
+.about-me{
+  background-image: url(images/Frame\ 58.jpg);
+  
+  
+  
 }
+
+
+
     
